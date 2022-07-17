@@ -1,9 +1,12 @@
-import React from 'react';
 import "./App.css";
+import FetchData from "./components/FetchData.jsx";
 
 function App() {
+
   return (
-    <h1>App</h1>
+    <div className='App'>
+      <FetchData></FetchData>
+    </div>
   );
 }
 
