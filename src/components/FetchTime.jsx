@@ -17,7 +17,7 @@ const Timestamp = ({blockNumber, api}) => {
         }
 
         retrieveTime();
-
+// eslint-disable-next-line 
     }, [])
 
     return (
