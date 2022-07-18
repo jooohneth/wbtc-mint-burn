@@ -2,6 +2,13 @@
 
 ### This app displays the last 20 Mint and Burn transactions of WBTC.
 
-** Netlify website ** 
-
+**Netlify website:** 
 https://dancing-gumdrop-afe00f.netlify.app/
+
+**Technologies used:**
+- HTML
+- CSS
+- Tailwind CSS
+- React JS
+- Ethers.js
+- Moment.js
